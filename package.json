@@ -8,6 +8,7 @@
     "dot-prop": "^5.1.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.19",
+    "node-forge": "^0.10.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-router-dom": "^4.3.1",
